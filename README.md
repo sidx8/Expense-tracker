@@ -1,2 +1,2 @@
 # Expense-tracker
-This is a simple expense Tracker mobile app built useing flutter
+This is a Simple Expense Tracker mobile app built useing flutter
